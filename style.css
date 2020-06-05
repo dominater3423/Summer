@@ -21,4 +21,11 @@ header a {
     color: white;
 }
 
+body a {
+    color: white;
+}
 
+.narwhal {
+    width: 40%;
+    padding-top: 3%;
+}
